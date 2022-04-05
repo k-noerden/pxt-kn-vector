@@ -1,0 +1,19 @@
+{
+    "name": "pxt-kn-vector",
+    "version": "0.0.0",
+    "description": "A simple vector library for MakeCode Arcade",
+    "dependencies": {
+        "device": "*"
+    },
+    "files": [
+        "README.md",
+        "kn-vector.ts"
+    ],
+    "testFiles": [
+    ],
+    "public": true,
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "blocksprj"
+}
