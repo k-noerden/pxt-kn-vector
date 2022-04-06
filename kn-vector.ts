@@ -29,7 +29,7 @@ namespace knvector {
         }
 
         //% blockSetVariable="vector"
-        //% blockCombine block="x"
+        //% blockCombine block="y"
         get y(): number {
             return this._y;
         }
