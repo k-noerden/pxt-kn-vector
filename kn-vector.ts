@@ -35,7 +35,7 @@ namespace knvector {
         }
 
         /**
-         * Get length of bector
+         * Get length of vector
          */
         //% blockSetVariable="vector"
         //% blockCombine block="length"
