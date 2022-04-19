@@ -34,6 +34,18 @@ namespace knvector {
             return this._y;
         }
 
+        //% blockSetVariable="vector"
+        //% blockCombine block="x"
+        set x(v: number) {
+            this._x = v;
+        }
+
+        //% blockSetVariable="vector"
+        //% blockCombine block="y"
+        set y(v: number) {
+            this._y = v;
+        }
+
         /**
          * Get length of vector
          */
